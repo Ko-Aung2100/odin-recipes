@@ -1,1 +1,1 @@
-my first oding project
+my first odin project
